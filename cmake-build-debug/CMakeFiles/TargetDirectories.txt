@@ -1,0 +1,3 @@
+/Users/zprzemek378/Documents/Season 4/Cpp/CLionProjects/echo-beats/cmake-build-debug/CMakeFiles/echo_beats.dir
+/Users/zprzemek378/Documents/Season 4/Cpp/CLionProjects/echo-beats/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zprzemek378/Documents/Season 4/Cpp/CLionProjects/echo-beats/cmake-build-debug/CMakeFiles/rebuild_cache.dir

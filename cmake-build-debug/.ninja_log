@@ -1,0 +1,7 @@
+# ninja log v5
+10	1057	1717064254614667616	CMakeFiles/echo_beats.dir/src/Game.cpp.o	8549ead389ef57ab
+0	70	1717069533620282122	build.ninja	2f3ee055684d7b6a
+6	731	1716928914164160128	CMakeFiles/echo_beats.dir/src/SoundManager.cpp.o	787630dedf236da5
+1057	1239	1717064254801491000	echo_beats	a51cfa8116ba1a77
+7	4599	1717062710312882997	CMakeFiles/echo_beats.dir/main.cpp.o	8e587e2b40723611
+9	1012	1716931691192413548	CMakeFiles/echo_beats.dir/src/Sequence.cpp.o	26a4c7d783af3b77
