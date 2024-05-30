@@ -20,8 +20,8 @@ Echo Beats to gra, która sprawdza naszą pamięć. Podczas rozgrywki jestesmy z
     -> korzystając z klawiatury - za pomocą przycisków od 1 do 8, na przykład najniższy (najbardziej po lewej) dźwięk C, można zagrać za pomocą przycisku 1, kolejny dźwięk D, to przycisk 2... reszta analogicznie, aż do przycisku 8.
 
 
-Aplikacja została stworzona w C++
-Gra stworzona przez Przemysława Zielińskiego 30 maja 2024 roku.
+Aplikacja została stworzona w C++  
+Gra stworzona przez Przemysława Zielińskiego 30 maja 2024
 
 
 ## EN
@@ -43,6 +43,5 @@ Echo Beats is a game that tests our memory. During gameplay, we are required to 
     -> using the keyboard - with the keys from 1 to 8, for example, the lowest (leftmost) sound C can be played with the 1 key, the next sound D with the 2 key... and so on up to the 8 key.
 
 
-The application was created in C++
-
+The application was created in C++  
 Game created by Przemysław Zieliński on May 30, 2024
