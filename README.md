@@ -21,7 +21,6 @@ Echo Beats to gra, która sprawdza naszą pamięć. Podczas rozgrywki jestesmy z
 
 
 Aplikacja została stworzona w C++
-
 Gra stworzona przez Przemysława Zielińskiego 30 maja 2024 roku.
 
 
